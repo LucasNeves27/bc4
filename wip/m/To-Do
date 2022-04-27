@@ -1,0 +1,4 @@
+Determine if variables are exogenous
+Perform the technical analysis
+Extra data: market cap, tether market cap, tether 24-hr volume
+Run the models (reinforcement, arima, regression, percent increase, grey model (GM1,1), LSTM)
